@@ -1,0 +1,22 @@
+# ReceiptHawk – AI Expense Tracker (In Progress)
+
+A smart expense tracking system that allows users to upload receipts and automatically extract and categorize expense data.
+
+## Features
+- Upload receipt images
+- OCR-based text extraction (in progress)
+- Automatic expense categorization
+- Search and dashboard visualization
+
+## Tech Stack
+- React
+- JavaScript
+- OCR (planned)
+
+## Status
+🚧 Currently under development
+
+## Future Enhancements
+- Analytics dashboard
+- Expense insights
+- Cloud storage integration
