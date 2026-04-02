@@ -6,7 +6,7 @@ A smart expense tracking system that allows users to upload receipts and automat
 - Upload receipt images
 - OCR-based text extraction (in progress)
 - Automatic expense categorization
-- Search and dashboard visualization
+
 
 ## Tech Stack
 - React
